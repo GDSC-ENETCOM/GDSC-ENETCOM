@@ -3,7 +3,7 @@
 <h2 align="center">Peer-to-peer learning</h2>
 <h3 align="center">Cybersecurity|Machine Learning |Web 3.0 </h3>
 
-- 🤝 we’re looking for : **Enthusiasm**
+- 🤝 We’re looking for : **Enthusiasm**
 
 - 👨‍💻 All of GDSC-Enetcom projects are available : [HERE](HERE)
 
