@@ -26,8 +26,10 @@
 </div>  
   
 
-<br/>  
+<br>  
 - 🤝 We’re looking for : **Enthusiasm**
+<br/>
+<br/>
 <br/> 
 
 
