@@ -27,7 +27,8 @@
   
 
 <br>  
-- 🤝 We’re looking for : **Enthusiasm**
+
+<h3 align="center">  🤝 We’re looking for : Enthusiasm 🤝</h3> <br>
 <br/>
 <br/>
 <br/> 
