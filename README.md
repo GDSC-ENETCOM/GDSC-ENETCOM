@@ -31,6 +31,6 @@
 
 - 👨‍💻 All of GDSC-Enetcom projects are available : [HERE](HERE)
 
-- 📫 How to reach GDSC-Enetcom **[https://gdsc.community.dev/national-engineering-school-of-electronics-and-telecoms-of-sfax/]** <br>
 
-![image](https://github.com/GDSC-ENETCOM/GDSC-ENETCOM/assets/147444033/d6ebf4ab-4e7c-4703-8d08-f7c9a0194b0a)
+
+![image](https://github.com/GDSC-ENETCOM/GDSC-ENETCOM/assets/147444033/5eb071fe-37b8-4abe-b8b4-817ad3c05110)
