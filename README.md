@@ -28,8 +28,8 @@
 
 <br/>  
 - 🤝 We’re looking for : **Enthusiasm**
+<br/> 
 
-- 👨‍💻 All of GDSC-Enetcom projects are available : [HERE](HERE)
 
 
 
